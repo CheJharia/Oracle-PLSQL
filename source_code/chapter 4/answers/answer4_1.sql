@@ -1,0 +1,1 @@
+Select tname from tab;

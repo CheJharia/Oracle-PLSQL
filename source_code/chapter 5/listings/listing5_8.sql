@@ -1,0 +1,1 @@
+select count(last_name) from employee;

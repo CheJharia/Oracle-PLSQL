@@ -1,0 +1,1 @@
+create index emp_ind on consultant (employee_id);

@@ -1,0 +1,1 @@
+Select first_name, last_name, wages from employee where wages is null; 

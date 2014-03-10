@@ -1,0 +1,1 @@
+select min(last_name) from employee;

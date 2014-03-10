@@ -1,0 +1,8 @@
+
+SQL*Loader: Release 9.0.1.1.1 - Production on Thu Jun 6 20:38:18 2002
+
+(c) Copyright 2001 Oracle Corporation.  All rights reserved.
+
+SQL*Loader-500: Unable to open file (d:\practice_database\loaddept.ctl)
+SQL*Loader-554: error opening file
+SQL*Loader-509: System error: The device does not recognize the command.

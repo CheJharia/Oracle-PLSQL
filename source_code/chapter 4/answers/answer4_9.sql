@@ -1,0 +1,1 @@
+Select first_name, last_name from employee where first_name = 'JOHN';

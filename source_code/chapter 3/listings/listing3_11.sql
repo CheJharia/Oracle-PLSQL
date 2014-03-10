@@ -1,0 +1,1 @@
+select substr(object_name, 1, 25), object_type from user_objects;

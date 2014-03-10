@@ -1,0 +1,1 @@
+select sum(tool_cost) from emp_tools;
