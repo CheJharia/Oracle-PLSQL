@@ -19,7 +19,8 @@ begin
 	dbms_output.put_line('value of f: '||f);
 	dbms_output.put_line('Global variable num1: '||num1);
 	dbms_output.put_line('Global variable num2: '||num2);
-	declare
+	declareINSERT INTO CUSTOMERS (ID,NAME,AGE,ADDRESS,SALARY) VALUES (5, 'Hardik', 27, 'Bhopal', 8500.00 );
+INSERT INTO CUSTOMERS (ID,NAME,AGE,ADDRESS,SALARY) VALUES (6, 'Komal', 22, 'MP', 4500.00 );
 	-- local variables
     num1 number := 95;
     num2 number := 85;	
@@ -71,7 +72,6 @@ begin
 	end if;
 end;
 
-
 -- exercise 0.6
 declare
 	grade varchar2(1):='A';
@@ -97,21 +97,3 @@ begin
 	end loop;
 	dbms_output.put_line('After exit val is: '|| val);
 end;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
